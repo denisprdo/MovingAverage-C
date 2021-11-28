@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "875cf019-b5df-4739-9145-42ac2152a91f": {
+      "ProjectGuid": "875cf019-b5df-4739-9145-42ac2152a91f",
+      "DisplayName": "MovingAverage",
+      "ColorIndex": 0
+    },
+    "8287b0f6-58f3-4360-ab72-c7d0faa550cc": {
+      "ProjectGuid": "8287b0f6-58f3-4360-ab72-c7d0faa550cc",
+      "DisplayName": "MovingAverage",
+      "ColorIndex": 1
+    },
+    "c1a4fe85-a398-41c9-ad15-9a6b98ab13d4": {
+      "ProjectGuid": "c1a4fe85-a398-41c9-ad15-9a6b98ab13d4",
+      "DisplayName": "Projeto C-Sharp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
